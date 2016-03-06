@@ -1,0 +1,23 @@
+{
+	"groups":[
+	{
+		"keys":"bgImage,bgGrey_png",
+		"name":"preload"
+	}],
+	"resources":[
+	{
+		"name":"bgImage",
+		"type":"image",
+		"url":"assets/bg.jpg"
+	},
+	{
+		"name":"description",
+		"type":"json",
+		"url":"config/description.json"
+	},
+	{
+		"name":"bgGrey_png",
+		"type":"image",
+		"url":"assets/bgGrey.png"
+	}]
+}
